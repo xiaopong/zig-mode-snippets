@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: whileoptional
+# key: whileopt
+# --
+while (${1:condition}) |$2| {
+    $3
+}

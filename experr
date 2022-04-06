@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: expectError
+# key: experr
+# --
+expectError(${1:error}, ${2:type});

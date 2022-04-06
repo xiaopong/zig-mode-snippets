@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: expectEqual
+# key: expeq
+# --
+expectEqual($1, $2);

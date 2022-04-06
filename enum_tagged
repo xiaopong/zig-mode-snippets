@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: enum_tagged
+# key: enumt
+# --
+const ${1:name} = enum(${2:type}) {
+    ${3:variant},
+    ${4:variant},
+};

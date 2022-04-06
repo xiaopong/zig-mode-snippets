@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: impp
+# key: impp
+# --
+const print = std.debug.print;

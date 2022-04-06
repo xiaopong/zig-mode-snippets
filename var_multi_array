@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: var_multi_array
+# key: vmarr
+# --
+var ${1:name}: [${2:row_size}][${3:column_size}]${4:type} = undefined;

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: enum
+# key: enum
+# --
+const ${1:name} = enum {
+    ${2:variant},
+    ${3:variant},
+};

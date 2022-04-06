@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: var_vector
+# key: vvec
+# --
+var ${1:name}: @Vector(${2:size}, ${3:type}) = ${4:init_value};

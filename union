@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: union
+# key: union
+# --
+const ${1:name} = union {
+    ${2:field},
+    ${3:field},
+};

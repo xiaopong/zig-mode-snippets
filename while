@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: while
+# key: whi
+# --
+while (${1:condition}) : ({
+    ${2:step};
+}) {
+    $3
+}

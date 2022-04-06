@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: error
+# key: err
+# --
+const ${1:name} = error {
+    ${2:name},
+    ${3:name},
+};

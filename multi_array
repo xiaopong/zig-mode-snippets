@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: multi_array
+# key: marr
+# --
+const ${1:name} = [${2:row_size}][${3:column_size}]${4:type}{
+    [_]$4{ $5, $6 },
+    [_]$4{ $7, $8 },
+};
